@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoApp", "DemoApp\DemoApp.csproj", "{59626131-45F6-499E-AF7E-2CEB8144A880}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplicationContainer", "ApplicationContainer\ApplicationContainer.csproj", "{18ED614E-B9D8-4DF3-AB77-6E5A434043CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18ED614E-B9D8-4DF3-AB77-6E5A434043CE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{18ED614E-B9D8-4DF3-AB77-6E5A434043CE}.Debug|x86.Build.0 = Debug|Any CPU
+		{18ED614E-B9D8-4DF3-AB77-6E5A434043CE}.Release|x86.ActiveCfg = Release|Any CPU
+		{18ED614E-B9D8-4DF3-AB77-6E5A434043CE}.Release|x86.Build.0 = Release|Any CPU
+		{59626131-45F6-499E-AF7E-2CEB8144A880}.Debug|x86.ActiveCfg = Debug|x86
+		{59626131-45F6-499E-AF7E-2CEB8144A880}.Debug|x86.Build.0 = Debug|x86
+		{59626131-45F6-499E-AF7E-2CEB8144A880}.Release|x86.ActiveCfg = Release|x86
+		{59626131-45F6-499E-AF7E-2CEB8144A880}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

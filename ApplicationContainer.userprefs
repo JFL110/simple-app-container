@@ -1,0 +1,41 @@
+﻿<Properties StartupItem="DemoApp/DemoApp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ApplicationContainer/Domain/MySQLDatabase.cs">
+    <Files>
+      <File FileName="../../TravelHunter/DAL2/packages.config" Line="1" Column="1" />
+      <File FileName="JamesApplicationContainer/Domain/MySQLDatabase.cs" Line="1" Column="1" />
+      <File FileName="../../TravelHunter/DAL2/Access.cs" Line="1" Column="1" />
+      <File FileName="JamesApplicationContainer/Logging/ILogger.cs" Line="1" Column="1" />
+      <File FileName="JamesApplicationContainer/Logging/ConsoleLogger.cs" Line="1" Column="1" />
+      <File FileName="../../TravelHunter/DAL2/Program.cs" Line="1" Column="1" />
+      <File FileName="JamesApplicationContainer/DummyEntryPoint.cs" Line="1" Column="1" />
+      <File FileName="../../SchoolProject/SchoolProject/IHttpProcessor + HttpProcessor.cs" Line="1" Column="1" />
+      <File FileName="JamesApplicationContainer/Web/IHttpProcessor + HttpProcessor.cs" Line="1" Column="1" />
+      <File FileName="JamesApplicationContainer/Web/IRequestProcessor.cs" Line="1" Column="1" />
+      <File FileName="JamesApplicationContainer/Web/RequestProcessor.cs" Line="1" Column="1" />
+      <File FileName="JamesApplicationContainer/Web/StaticResourceRequestProcessor.cs" Line="1" Column="1" />
+      <File FileName="../../SchoolProject/SchoolProject/Processors/FileSystemProcessor.cs" Line="1" Column="1" />
+      <File FileName="../../SchoolProject/SchoolProject/Processors/AjaxProcessor.cs" Line="1" Column="1" />
+      <File FileName="../../SchoolProject/SchoolProject/Server.cs" Line="1" Column="1" />
+      <File FileName="JamesApplicationContainer/Web/Server.cs" Line="1" Column="1" />
+      <File FileName="../../SchoolProject/SchoolProject/Program.cs" Line="1" Column="1" />
+      <File FileName="DemoApp/Program.cs" Line="1" Column="1" />
+      <File FileName="DemoApp/Domain/DemoAppDb.cs" Line="1" Column="1" />
+      <File FileName="DemoApp/Domain/Cat.cs" Line="1" Column="1" />
+      <File FileName="../../TravelHunter/_ConsoleEntry/App.config" Line="1" Column="1" />
+      <File FileName="DemoApp/App.config" Line="1" Column="1" />
+      <File FileName="../../TravelHunter/_ConsoleEntry/Program.cs" Line="1" Column="1" />
+      <File FileName="../../TravelHunter/DAL2/Domain/TravelHunterDbContext.cs" Line="1" Column="1" />
+      <File FileName="../../TravelHunter/DAL2/Domain/Operator.cs" Line="1" Column="1" />
+      <File FileName="JamesApplicationContainer/Web/TextServiceProcessor.cs" Line="1" Column="1" />
+      <File FileName="DemoApp/CatService.cs" Line="1" Column="1" />
+      <File FileName="DemoApp/packages.config" Line="1" Column="1" />
+      <File FileName="ApplicationContainer/MyClass.cs" Line="1" Column="1" />
+      <File FileName="ApplicationContainer/Domain/MySQLDatabase.cs" Line="2" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
