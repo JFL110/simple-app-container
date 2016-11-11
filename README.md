@@ -1,2 +1,3 @@
-# simple-app-container
-A simple C# web application container for classroom projects
+# Simple App Container
+
+A C# web application container for classroom projects.
