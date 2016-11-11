@@ -13,8 +13,8 @@ namespace DemoApp
 		Start App with UpgradingBehaviour set to Initial
 		Restart App with UpgradingBehaviour set to DropCreate or None
 		Navigate to localhost:8181 to view index page
-					localhost:8181/countCats to view number of cats in Cat table
-					localhost:8181/insertCat?name=Bob to insert a cat named Bob
+			    localhost:8181/countCats to view number of cats in Cat table
+			    localhost:8181/insertCat?name=Bob to insert a cat named Bob
 	*/
 	class MainClass
 	{
