@@ -15,7 +15,6 @@
       <File FileName="JamesApplicationContainer/Web/RequestProcessor.cs" Line="1" Column="1" />
       <File FileName="JamesApplicationContainer/Web/StaticResourceRequestProcessor.cs" Line="1" Column="1" />
       <File FileName="../../SchoolProject/SchoolProject/Processors/FileSystemProcessor.cs" Line="1" Column="1" />
-      <File FileName="../../SchoolProject/SchoolProject/Processors/AjaxProcessor.cs" Line="1" Column="1" />
       <File FileName="../../SchoolProject/SchoolProject/Server.cs" Line="1" Column="1" />
       <File FileName="JamesApplicationContainer/Web/Server.cs" Line="1" Column="1" />
       <File FileName="../../SchoolProject/SchoolProject/Program.cs" Line="1" Column="1" />
